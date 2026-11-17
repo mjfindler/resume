@@ -1,2 +1,2 @@
-# resume
-My professional website created with HTML and CSS
+# resum&eacute
+My professional resum&eacute website created with HTML and CSS
